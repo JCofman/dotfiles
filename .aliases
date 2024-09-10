@@ -146,3 +146,10 @@ alias reload="exec ${SHELL} -l"
 
 # Print each PATH entry on a separate line
 alias path='echo -e ${PATH//:/\\n}'
+
+
+alias shrug="printf '¯\_(ツ)_/¯' | pbcopy"
+alias flipt="printf '(╯°□°)╯︵ ┻━┻' | pbcopy"
+alias fight="printf '(ง'̀-'́)ง' | pbcopy"
+
+alias zshconfig='code ~/.zshrc'

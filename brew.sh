@@ -96,6 +96,37 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install zopfli
+brew install fzf
+brew install fnm
+brew install zsh
+brew install oh-my-zsh
+brew install starship
+brew install kubernetes-cli
+brew install kubectx
+brew install derailed/k9s/k9s
+brew install thefuck
+brew install handbrake # video editing
+brew install gtk4 adwaita-icon-theme ffmpeg librsvg libheif libraw # https://github.com/qarmin/czkawka/blob/master/czkawka_gui/README.md
+brew install stats
+brew install jordanbaird-ice
 
 # Remove outdated versions from the cellar.
 brew cleanup
+
+
+# Install apps 
+brew install --cask raycast
+brew install --cask figma
+brew install --cask caffeine
+brew install --cask bruno
+brew install --cask kap
+brew install --cask bitwarden
+brew install --cask karabiner-elements
+brew install --cask rectangle
+brew install --cask kit
+brew install --cask azure-data-studio
+brew install --cask spline
+brew install --cask obsidian
+brew install --cask discord
+brew install --cask iterm2
+brew install --cask notion
